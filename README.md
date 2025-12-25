@@ -72,4 +72,4 @@ This project analyzes Walmart's weekly sales data (2010–2012) to develop accur
 ## Project Links
 - **Python Analysis**: Google Colab Notebook  
 - **Tableau Dashboard**: [Public Tableau Profile  ](https://public.tableau.com/app/profile/rizky.dwi.hariyadi/vizzes)
-- **Linkedin**: [P](https://www.linkedin.com/in/rizky-dwi-hariyadi-373383323/)  
+- **Linkedin**: [Profile](https://www.linkedin.com/in/rizky-dwi-hariyadi-373383323/)  
